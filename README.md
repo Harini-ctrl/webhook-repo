@@ -203,8 +203,8 @@ pip freeze > requirements.txt
 
 ## ✅ Author
 
-Your Name
-Your GitHub Profile Link
+Harini Srutakeerti
+https://github.com/Harini-ctrl/
 
 ---
 
