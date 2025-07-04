@@ -206,25 +206,3 @@ pip freeze > requirements.txt
 Harini Srutakeerti
 https://github.com/Harini-ctrl/
 
----
-
-````
-
----
-
-## ✅ 📌 How to Use It
-
-✅ Copy everything above.  
-✅ Paste it into your `README.md` in `webhook-repo`.  
-✅ Update:
-- `Your Name`
-- `Your GitHub Profile Link`
-- And the ngrok URLs if you want to use real examples
-
-✅ Commit & push:
-
-```bash
-git add README.md
-git commit -m "Add clear README with setup instructions"
-git push
-````
